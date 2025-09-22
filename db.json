@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "status": "Available"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "year": 2019,
+      "status": "Issued",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2011,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "status": "Available"
+    },
+    {
+      "id": "58c9",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "year": 2018,
+      "status": "Available"
+    },
+    {
+      "id": "6735",
+      "title": "Dream Count",
+      "author": "Chimamanda Nogozi",
+      "genre": "Self-help",
+      "year": 2025,
+      "status": "Available"
+    },
+    {
+      "id": "25b0",
+      "title": "Soul Searching",
+      "author": "Lyla Sage",
+      "genre": "Self-help",
+      "year": 2025,
+      "status": "Available"
+    }
+  ]
+}
